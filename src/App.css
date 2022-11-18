@@ -1,7 +1,11 @@
 .App {
   text-align: center;
 }
-
+h1{
+  background-color: gainsboro;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
